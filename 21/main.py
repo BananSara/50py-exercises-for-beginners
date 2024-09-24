@@ -8,6 +8,3 @@ def char_freq(chars):
     return freq
 
 print(char_freq('abbabcbdbabdbdbabababcbcbab'))
-        
-        
-    
