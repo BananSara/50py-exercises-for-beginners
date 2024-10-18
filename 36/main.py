@@ -18,6 +18,3 @@ def hapaxes():
             
     return hapaxes 
 print(hapaxes())
-
-
-# bbin mn print gozshtm vali koln hichi khuruji nmide yni engar koln irad dare
